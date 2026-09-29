@@ -1,0 +1,6 @@
+{
+  "name": "Match-Need & Shelter Capacity Live Map",
+  "description": "แพลตฟอร์มบริหารจัดการอุทกภัย จ.อุบลราชธานี (ต.ในเมือง/วารินชำราบ): กระดานจับคู่ของขาด-ของเหลือ (รับจบ) แผนที่ความจุศูนย์พักพิง และระบบตามหาญาติข้ามศูนย์ รองรับ Offline-First",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
